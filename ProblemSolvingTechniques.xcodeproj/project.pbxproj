@@ -14,6 +14,7 @@
 		8469A9172513C5E000605060 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8469A9162513C5E000605060 /* Assets.xcassets */; };
 		8469A91A2513C5E000605060 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8469A9182513C5E000605060 /* LaunchScreen.storyboard */; };
 		8469A9222513C65400605060 /* ConsecutiveOnes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8469A9212513C65400605060 /* ConsecutiveOnes.swift */; };
+		8469A9242515127200605060 /* EvenDigitNumbersCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8469A9232515127200605060 /* EvenDigitNumbersCount.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8469A9192513C5E000605060 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8469A91B2513C5E000605060 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8469A9212513C65400605060 /* ConsecutiveOnes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConsecutiveOnes.swift; sourceTree = "<group>"; };
+		8469A9232515127200605060 /* EvenDigitNumbersCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvenDigitNumbersCount.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				8469A90F2513C5DA00605060 /* SceneDelegate.swift */,
 				8469A9112513C5DA00605060 /* ViewController.swift */,
 				8469A9212513C65400605060 /* ConsecutiveOnes.swift */,
+				8469A9232515127200605060 /* EvenDigitNumbersCount.swift */,
 				8469A9132513C5DA00605060 /* Main.storyboard */,
 				8469A9162513C5E000605060 /* Assets.xcassets */,
 				8469A9182513C5E000605060 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				8469A9122513C5DA00605060 /* ViewController.swift in Sources */,
 				8469A9222513C65400605060 /* ConsecutiveOnes.swift in Sources */,
 				8469A90E2513C5DA00605060 /* AppDelegate.swift in Sources */,
+				8469A9242515127200605060 /* EvenDigitNumbersCount.swift in Sources */,
 				8469A9102513C5DA00605060 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

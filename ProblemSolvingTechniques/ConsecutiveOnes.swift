@@ -5,6 +5,8 @@
 //  Created by Admin on 17/09/20.
 //  Copyright © 2020 Admin. All rights reserved.
 //
+//Given a binary array, find the maximum number of consecutive 1s in this array.
+
 
 import Foundation
 class ConsecutiveOnes {
